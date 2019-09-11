@@ -42,3 +42,10 @@ html {
   padding: 11px;
   display: none;
 }
+
+#question {
+  width: 400px;
+  height: 150px;
+  margin: 50px auto 10px auto;
+  background-color: #9da0ea;
+}
